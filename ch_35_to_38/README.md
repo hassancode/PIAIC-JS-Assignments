@@ -26,7 +26,7 @@ function add(a, b){
 };
 
 function multiply(a, b, c){
-	var z= a* add(b, c);
+	var z= a* add(b, c);//4*9
 	return z;
 };
 
